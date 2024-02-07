@@ -30,7 +30,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(to bottom right, #07b81c, #99ff01);
+  background: linear-gradient(to bottom right, #07b81c, #fbff01);
 }
 
 .root {
