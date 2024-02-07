@@ -56,7 +56,7 @@ body {
     padding: 10px;
     border: 3px solid black;
     border-radius: 10px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
 }
 
 .header__btn-delete-last {
@@ -64,7 +64,7 @@ body {
     padding: 10px;
     border: 3px solid black;
     border-radius: 10px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
 }
 
 .header__input {
@@ -82,7 +82,7 @@ body {
     padding: 10px;
     border: 3px solid black;
     border-radius: 10px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
 }
 
 /* ! Settings */
@@ -107,7 +107,7 @@ body {
     padding: 10px;
     border: 3px solid black;
     border-radius: 10px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
 }
 
 .settings__brn-show-completed {
@@ -115,7 +115,7 @@ body {
     padding: 10px;
     border: 3px solid black;
     border-radius: 10px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
 }
 
 .settings__input {
@@ -155,7 +155,7 @@ body {
     text-align: center;
     border: 3px solid black;
     border-radius: 5px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
     cursor: pointer;
 }
 
@@ -198,7 +198,7 @@ input[type="checkbox"]:checked ~ .task__checkbox {
     padding: 2px 5px;
     border: 3px solid black;
     border-radius: 5px;
-    background: yellowgreen;
+    background: rgb(11, 190, 23);
 }
 
 .task__date {
